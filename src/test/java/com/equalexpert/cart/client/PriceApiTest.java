@@ -11,6 +11,7 @@ public class PriceApiTest {
 
     @Test
     void shouldReturnExpectedPrice() {
+
         // Arrange
         PriceApi api = mock(PriceApi.class);
 
